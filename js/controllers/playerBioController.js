@@ -7,7 +7,7 @@ app.controller('playerBioController',['$scope' function($scope){
 			height: "5'4",
 			position:'Forward',
 			hometown:'Reisterstown, MD'
-			}
+			
 		},
 
 		{
@@ -17,7 +17,7 @@ app.controller('playerBioController',['$scope' function($scope){
 			height: "5'5",
 			position:'Center',
 			hometown:'Owings Mills, MD'
-			}
+			
 		},
 
 		{
@@ -27,7 +27,7 @@ app.controller('playerBioController',['$scope' function($scope){
 			height: "5'2",
 			position:'Runner',
 			hometown:'Anchorage,AK'
-			}
+			
 		},
 
 		{
@@ -37,7 +37,7 @@ app.controller('playerBioController',['$scope' function($scope){
 			height: "5'6",
 			position:'Tough',
 			hometown:'Lancaster,PA'
-			}
+			
 		},
 
 		game:{
@@ -46,7 +46,7 @@ app.controller('playerBioController',['$scope' function($scope){
 			height: "5'5",
 			position:'Base',
 			hometown:'Devener, CO'
-			}
+			
 		},
 
         game:{
@@ -55,7 +55,7 @@ app.controller('playerBioController',['$scope' function($scope){
 			height: "5'7",
 			position:'Swinger',
 			hometown:'Baltimore, MD'
-			}
+			
 		},
 
 		game:{
@@ -64,7 +64,7 @@ app.controller('playerBioController',['$scope' function($scope){
 			height: "5'2",
 			position:'Speed Foward',
 			hometown:'Philidephia, PA'
-			}
+			
 		},
 
 		game:{
@@ -73,7 +73,7 @@ app.controller('playerBioController',['$scope' function($scope){
 			height: "5'8",
 			position:'Lead Ballerina',
 			hometown:'East Rutherford, NJ'
-			}
+			
 		},
 
 		game:{
@@ -82,7 +82,7 @@ app.controller('playerBioController',['$scope' function($scope){
 			height: "5'6",
 			position:'Pitcher',
 			hometown:'Greenbay, WI'
-			}
+			
 		},
 
 		game:{
@@ -91,7 +91,7 @@ app.controller('playerBioController',['$scope' function($scope){
 			height: "5'7",
 			position:'Diver',
 			hometown:'New England, MA'
-			}
+			
 		},
 
 		game:{
@@ -100,7 +100,7 @@ app.controller('playerBioController',['$scope' function($scope){
 			height: "5'6",
 			position:'Hurdler',
 			hometown:'Baltimore, MD'
-			}
+			
 		},
 
 		game:{
