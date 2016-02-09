@@ -1,7 +1,6 @@
 app.controller('playerBioController',['$scope' function($scope){
 	$scope.bios=[
 		{
-		game:{
 			sport:'Soccer',
 			name:'Rose Gillbert',
 			height: "5'4",
@@ -11,7 +10,6 @@ app.controller('playerBioController',['$scope' function($scope){
 		},
 
 		{
-		game:{
 			sport:'Basketball',
 			name:'Sierra Cohen',
 			height: "5'5",
@@ -21,7 +19,6 @@ app.controller('playerBioController',['$scope' function($scope){
 		},
 
 		{
-		game:{
 			sport:'BobSled',
 			name:'Bridget Jackson',
 			height: "5'2",
@@ -31,7 +28,6 @@ app.controller('playerBioController',['$scope' function($scope){
 		},
 
 		{
-		game:{
 			sport:'Boxing',
 			name:'Landania Tomlinson',
 			height: "5'6",
@@ -39,8 +35,6 @@ app.controller('playerBioController',['$scope' function($scope){
 			hometown:'Lancaster,PA'
 			
 		},
-
-		game:{
 			sport:'Cheerleader',
 			name:'Paytonya Manning',
 			height: "5'5",
@@ -49,7 +43,6 @@ app.controller('playerBioController',['$scope' function($scope){
 			
 		},
 
-        game:{
 			sport:'Golf',
 			name:'Rayna Lewis',
 			height: "5'7",
@@ -58,7 +51,7 @@ app.controller('playerBioController',['$scope' function($scope){
 			
 		},
 
-		game:{
+		
 			sport:'RollerSkating',
 			name:'Donna McNab',
 			height: "5'2",
@@ -67,7 +60,7 @@ app.controller('playerBioController',['$scope' function($scope){
 			
 		},
 
-		game:{
+	
 			sport:'Ballerina',
 			name:'Josephine Nameth',
 			height: "5'8",
@@ -76,7 +69,6 @@ app.controller('playerBioController',['$scope' function($scope){
 			
 		},
 
-		game:{
 			sport:'Softball',
 			name:'Erin Rogers',
 			height: "5'6",
@@ -85,7 +77,7 @@ app.controller('playerBioController',['$scope' function($scope){
 			
 		},
 
-		game:{
+		
 			sport:'Swimming',
 			name:'Tonya Brady',
 			height: "5'7",
@@ -94,7 +86,7 @@ app.controller('playerBioController',['$scope' function($scope){
 			
 		},
 
-		game:{
+	
 			sport:'Outdoor Track',
 			name:'Ednna Reed',
 			height: "5'6",
@@ -103,7 +95,6 @@ app.controller('playerBioController',['$scope' function($scope){
 			
 		},
 
-		game:{
 			sport:'Volley Ball',
 			name:'Casandra Newton',
 			height: "5'8",
