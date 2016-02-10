@@ -1,4 +1,4 @@
-app.controller('playerBioController',['$scope' function($scope){
+app.controller('playerBioController',['$scope', function($scope){
 	$scope.bios=[
 		{
 			sport:'Soccer',
