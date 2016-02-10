@@ -1,0 +1,26 @@
+.header {
+	text-align: center;
+	color:#190F91;
+}
+.well{
+	background-color:#FEF8AB;
+}
+.header h1, .header p{
+	margin-top:0px;
+
+
+}
+/*footer*/
+#footer{
+	padding-top:16px;
+	background-color:#FEF8AB;
+	padding-bottom:45px;
+}
+#footer ul{
+	list-style: none;
+	margin-left:75px;
+}
+
+#footer li{
+	color:#190F91;
+}
