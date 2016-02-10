@@ -35,6 +35,7 @@ app.controller('playerBioController',['$scope' function($scope){
 			hometown:'Lancaster,PA'
 			
 		},
+		{
 			sport:'Cheerleader',
 			name:'Paytonya Manning',
 			height: "5'5",
@@ -42,7 +43,7 @@ app.controller('playerBioController',['$scope' function($scope){
 			hometown:'Devener, CO'
 			
 		},
-
+         {
 			sport:'Golf',
 			name:'Rayna Lewis',
 			height: "5'7",
@@ -51,7 +52,7 @@ app.controller('playerBioController',['$scope' function($scope){
 			
 		},
 
-		
+		{
 			sport:'RollerSkating',
 			name:'Donna McNab',
 			height: "5'2",
@@ -60,7 +61,7 @@ app.controller('playerBioController',['$scope' function($scope){
 			
 		},
 
-	
+    	{
 			sport:'Ballerina',
 			name:'Josephine Nameth',
 			height: "5'8",
@@ -68,7 +69,7 @@ app.controller('playerBioController',['$scope' function($scope){
 			hometown:'East Rutherford, NJ'
 			
 		},
-
+           {
 			sport:'Softball',
 			name:'Erin Rogers',
 			height: "5'6",
@@ -77,7 +78,7 @@ app.controller('playerBioController',['$scope' function($scope){
 			
 		},
 
-		
+		{
 			sport:'Swimming',
 			name:'Tonya Brady',
 			height: "5'7",
@@ -86,7 +87,7 @@ app.controller('playerBioController',['$scope' function($scope){
 			
 		},
 
-	
+	     {
 			sport:'Outdoor Track',
 			name:'Ednna Reed',
 			height: "5'6",
@@ -94,13 +95,13 @@ app.controller('playerBioController',['$scope' function($scope){
 			hometown:'Baltimore, MD'
 			
 		},
-
+         {
 			sport:'Volley Ball',
 			name:'Casandra Newton',
 			height: "5'8",
 			position:'Setter',
 			hometown:'Charolett, NC'
 			}
-		}
+		
 	]
 }]);
