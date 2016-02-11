@@ -93,7 +93,7 @@ app.controller('playerBioController',['$scope', function($scope){
 			height: "5'7",
 			position:'Diver',
 			hometown:'New England, MA',
-			img: 'img/swimming.jpg'
+			img: 'img/swimmer.jpg'
 			
 		},
 
@@ -103,7 +103,7 @@ app.controller('playerBioController',['$scope', function($scope){
 			height: "5'6",
 			position:'Hurdler',
 			hometown:'Baltimore, MD',
-			img: 'img/trackstars.img'
+			img: 'img/trackstars.jpg'
 			
 		},
          {

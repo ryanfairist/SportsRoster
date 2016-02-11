@@ -1,20 +1,41 @@
+
+
 .header {
 	text-align: center;
 	color:#120B69;
-}
-.well{
-	background-color:#FEF8AB;
-}
-.header h1, .header p{
-	margin-top:0px;
-
 
 }
+ .header p{
+	margin:0px;
+	text-align: center;
+
+}
+
+.well {
+		background-color:#FEF8AB;
+}
+.header h2{
+	font-family: 'Playfair Display SC', serif;
+	margin-top:5px;
+}
+
+/*side panel*/
+.side-panel{
+    background-color:#5469B2;
+    color:#fff;
+    left:0;
+    position:fixed;
+    height:800px;
+}
+
+
 /*footer*/
 #footer{
 	padding-top:16px;
 	background-color:#FEF8AB;
 	padding-bottom:45px;
+	margin-top: 25px;
+	position:relative;
 }
 #footer ul{
 	list-style: none;
