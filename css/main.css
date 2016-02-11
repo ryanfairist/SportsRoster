@@ -3,6 +3,7 @@
 .header {
 	text-align: center;
 	color:#120B69;
+	margin:0px;
 
 }
  .header p{
@@ -13,6 +14,7 @@
 
 .well {
 		background-color:#FEF8AB;
+		margin:0px;
 }
 .header h2{
 	font-family: 'Playfair Display SC', serif;
@@ -25,6 +27,7 @@
     color:#fff;
     margin:0;
     padding:5px;
+    float:left;
 }
 .side-panel li {
 	list-style: none;
