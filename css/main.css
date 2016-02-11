@@ -1,5 +1,9 @@
-
-
+body{
+	background-color:#FF9EA5;
+}
+hr{
+	border-color:#FF9EA5;
+}
 .header {
 	text-align: center;
 	color:#120B69;
@@ -21,20 +25,7 @@
 	margin-top:5px;
 }
 
-/*side panel*/
-.side-panel{
-    background-color:#5469B2;
-    color:#fff;
-    margin:0;
-    padding-top:10px;
-    float:right;
-    height:800px;
 
-}
-.side-panel li {
-	list-style: none;
-
-}
 /* directive*/
 
 /*footer*/
