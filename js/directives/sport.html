@@ -1,13 +1,20 @@
 
 <div class="col-sm-4">
   <div class="row">
-  	
+  	<div class ="col-sm-2"></div>
   		<h2 class="information-sport">{{ info.sport }}</h2>
   		
-  		   <img class="img" height="200px" width="200px" ng-src="{{ info.img }}">
-       
 
-   
+
+      <div ng-controller="myCtrl">
+  		   <img  ng-click="myFunc()" class="img" height="200px" width="200px" ng-src="{{ info.img }}">
+       
+       <div ng-show="showMe">
+        <p> Organization:{{info.cause}}</p>
+      </div>
+      <!--might need to remove a div-->
+
+   </div>
       <h4 class="Name" style="color:#120B69;">{{ info.name }}</h4>
       <p>{{ info.height }}</p>
         <p>{{ info.position}}</p>
