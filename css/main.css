@@ -30,15 +30,42 @@ hr{
 /*footer*/
 #footer{
 	padding-top:16px;
-	background-color:#FEF8AB;
+	background-color:#3C3B3D;
 	padding-bottom:45px;
 	margin-top: 25px;
+
 }
 #footer ul{
 	list-style: none;
 	margin-left:75px;
 }
 
-#footer li{
+/*#footer li{
 	color:#120B69;
+}*/
+
+ a {
+  color: blue;
+  text-decoration: none;
+  font-weight:bold;
+  -webkit-transition: .2s;
+}
+a:hover {
+  color: hotPink;
+}
+@media (-webkit-min-device-pixel-ratio:0) {
+  a {
+    background-color: skyBlue;
+    background-image: -webkit-linear-gradient(left, hotPink 0%, orange 50%, transparent 50%);
+    background-position: 100% 0;
+    background-size: 200% 200%;
+    color: transparent;
+    -webkit-transition: .1s .2s;
+    -webkit-background-clip: text;
+  }
+  a:hover {
+    background-position: 0 0;
+    color: transparent;
+    transition: .4s 0;
+  }
 }
